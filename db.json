@@ -1,4 +1,6 @@
- [ {
+{
+ [ 
+  {
     "id": 0,
     "description": "My NFT",
     "name": "My NFT 0"
@@ -13,4 +15,5 @@
     "description": "My NFT",
     "name": "My NFT 2"
   }
-]
+ ]
+}
